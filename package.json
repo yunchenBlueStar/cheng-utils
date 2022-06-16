@@ -1,0 +1,26 @@
+{
+  "name": "cheng-utils",
+  "version": "0.0.0",
+  "description": "there will publish something my common utils, you guy's can try it! I will integrate the commma in to there",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunchenBlueStar/cheng-utils.git"
+  },
+  "keywords": [
+    "cheng's utils",
+    "cheng util",
+    "cheng",
+    "chengs",
+    "chengs"
+  ],
+  "author": "Lu YunCheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yunchenBlueStar/cheng-utils/issues"
+  },
+  "homepage": "https://github.com/yunchenBlueStar/cheng-utils#readme"
+}
