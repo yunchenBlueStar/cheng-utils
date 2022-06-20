@@ -1,6 +1,6 @@
 {
   "name": "cheng-utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "there will publish something my common utils, you guy's can try it! I will integrate the commma in to there",
   "main": "index.ts",
   "scripts": {
